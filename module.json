@@ -1,0 +1,13 @@
+{
+    "name": "User",
+    "alias": "user",
+    "description": "User management module for managing users, roles, and permissions",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "App\\Modules\\User\\Providers\\UserServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
