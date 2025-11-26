@@ -14,10 +14,10 @@
             "homepage": "https://github.com/faysal0x1"
         }
     ],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "require": {
         "php": "^8.2",
-        "nwidart/laravel-modules": "^11.0"
+        "nwidart/laravel-modules": "^12.0"
     },
     "autoload": {
         "psr-4": {
